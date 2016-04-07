@@ -1,6 +1,6 @@
 {
   "name": "bluebird2",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "bluebird v2.x",
   "main": "./lib/",
   "author": {
