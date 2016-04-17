@@ -11,3 +11,7 @@
 ## 1.1.1
 
 * `clone` method
+
+## Next
+
+* `version` property
