@@ -7,3 +7,7 @@
 ## 1.1.0
 
 * Erroneous release - no changes
+
+## 1.1.1
+
+* `clone` method
