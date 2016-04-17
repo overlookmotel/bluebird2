@@ -31,7 +31,7 @@ This module adds one method to the Bluebird constructor: `.clone()`
 `.clone()` returns a new independent instance of the Bluebird constructor.
 
 ```js
-var Bluebird = require('bluebird3');
+var Bluebird = require('bluebird2');
 var BluebirdX = Bluebird.clone();
 
 console.log(BluebirdX != Bluebird); // true

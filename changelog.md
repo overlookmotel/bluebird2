@@ -15,3 +15,4 @@
 ## Next
 
 * `version` property
+* README typo
