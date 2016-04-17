@@ -12,7 +12,7 @@
 
 * `clone` method
 
-## Next
+## 1.2.0
 
 * `version` property
 * README typo
