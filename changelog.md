@@ -20,3 +20,4 @@
 ## Next
 
 * Return independent instance of bluebird
+* Update dev dependencies
