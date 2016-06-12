@@ -21,3 +21,4 @@
 
 * Return independent instance of bluebird
 * Update dev dependencies
+* Replace `Makefile` with npm scripts
