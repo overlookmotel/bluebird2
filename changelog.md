@@ -17,7 +17,7 @@
 * `version` property
 * README typo
 
-## Next
+## 2.0.0
 
 * Return independent instance of bluebird
 * Update dev dependencies
