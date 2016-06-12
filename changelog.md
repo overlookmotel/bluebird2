@@ -16,3 +16,7 @@
 
 * `version` property
 * README typo
+
+## Next
+
+* Return independent instance of bluebird
