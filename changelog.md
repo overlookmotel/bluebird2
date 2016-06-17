@@ -24,6 +24,6 @@
 * Replace `Makefile` with npm scripts
 * Travis tests against node v6
 
-## Next
+## 2.1.0
 
 * `.getNewLibraryCopy()` method (was `.clone()`)
