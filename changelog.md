@@ -27,3 +27,7 @@
 ## 2.1.0
 
 * `.getNewLibraryCopy()` method (was `.clone()`)
+
+## Next
+
+* Travis CI runs on all branches (to allow `greenkeeper` to trigger Travis)
