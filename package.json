@@ -14,7 +14,7 @@
     "url": "https://github.com/overlookmotel/bluebird2/issues"
   },
   "dependencies": {
-    "bluebird": "^2.10.2"
+    "bluebird": "2.10.2"
   },
   "devDependencies": {
     "mocha": "^3.0.1",
