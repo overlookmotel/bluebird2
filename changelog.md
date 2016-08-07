@@ -32,3 +32,4 @@
 
 * Remove `.clone()` method
 * Travis CI runs on all branches (to allow `greenkeeper` to trigger Travis)
+* Update dev dependencies
