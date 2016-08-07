@@ -28,7 +28,7 @@
 
 * `.getNewLibraryCopy()` method (was `.clone()`)
 
-## Next
+## 3.0.0
 
 * Remove `.clone()` method
 * Pin `bluebird` dependency to trigger a PR from `greenkeeper` whenever new version released
