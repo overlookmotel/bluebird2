@@ -36,3 +36,7 @@
 * Travis CI does not run on tags
 * Tidy npm scripts
 * Update dev dependencies
+
+## Next
+
+* Update `bluebird` to v2.11.0
