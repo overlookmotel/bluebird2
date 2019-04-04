@@ -37,6 +37,6 @@
 * Tidy npm scripts
 * Update dev dependencies
 
-## Next
+## 3.0.1
 
 * Update `bluebird` to v2.11.0
